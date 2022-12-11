@@ -6,3 +6,4 @@
             
 <a href="https://instagram.com/miguel.the.coder" target="_blank"><img src="https://img.shields.io/badge/-Miguel.The.Coder-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:t7miguel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/denjidoc"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fdenjidoc">
